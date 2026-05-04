@@ -179,7 +179,6 @@ my-assistant/
 ├── requirements.txt
 ├── product_prd.md
 ├── README.md
-├── .env.example          # optional template if used
 ├── raw_data/             # ingested Wikipedia text (gitignored if desired)
 ├── chroma_db/            # Chroma persistence (local)
 ├── ingestion.db          # SQLite ingestion state
