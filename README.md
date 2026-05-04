@@ -27,7 +27,7 @@ A fully local, ChatGPT-style assistant that answers questions about **famous peo
 ## Installation
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/vedatenisgul/wiki-rag.git
 cd my-assistant
 python -m venv venv
 source venv/bin/activate   # Windows: venv\Scripts\activate
