@@ -28,8 +28,8 @@ A fully local, ChatGPT-style assistant that answers questions about **famous peo
 
 ```bash
 git clone https://github.com/vedatenisgul/wiki-rag.git
-cd my-assistant
-python -m venv venv
+cd wiki-rag-main
+python3 -m venv venv
 source venv/bin/activate   # Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
