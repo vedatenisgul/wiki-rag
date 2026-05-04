@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+chroma_db/
+cache.db
+ingestion.db
+.env
+*.egg-info/
